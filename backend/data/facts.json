@@ -1,0 +1,26 @@
+{
+    "full_name": "Ryan Boal",
+    "name": "Ryan",
+    "current_role": "Product Management Professional",
+    "location": "Miami-Ft. Lauderdale, FL",
+    "email": "ryan@ryanalanboal.com",
+    "linkedin": "linkedin.com/in/ryanboal",
+    "specialties": [
+      "Healthcare Technology",
+      "Analytics",
+      "AI"
+    ],
+    "years_experience": 20,
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Pittsburgh",
+      "year": ""
+    },
+    {
+      "degree": "Master of Business Administration",
+      "institution": "Capital University",
+      "year": ""
+    }
+  ]
+}
